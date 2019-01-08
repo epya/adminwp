@@ -11,8 +11,6 @@ Template Name: Página de Epya
 
 TEXTOOOOOOO
 
-3er commit
-
 </div>
 
 <?php
